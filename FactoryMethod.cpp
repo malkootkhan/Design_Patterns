@@ -1,3 +1,4 @@
+/*This is just a test code for understanding the factory method real world implementation nothing more than that*/
 #include <iostream>
 #include <string>
 
