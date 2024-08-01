@@ -87,7 +87,7 @@ public:
     }
 };
 
-
+/*Implementation of three separate objects and their interaction among one another*/
 
 int main() {
     Factory* myFactory = nullptr;
